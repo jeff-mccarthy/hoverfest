@@ -1,3 +1,20 @@
+/* Global */
+#hover-body {
+  width: 125px;
+  background: #f0f0f0;
+  font-family: 'Helvetica Neue', Helvetica, sans-serif;
+  font-weight: 300;
+}
+
+.main-content {
+  padding: 10px;
+}
+
+label {
+  font-size: 14px;
+}
+
+/* Outline Hover */
 .hover {
   position: absolute;
   box-shadow: 0 0 0 1px red inset;
